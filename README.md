@@ -11,6 +11,7 @@ NOTE: This notebook will be merged with Argoverse through [this](https://github.
 # Monocular-Depth-Estimation
 Check out Monocular-Depth-Estimation-Argoverse](https://github.com/TilakD/Monocular-Depth-Estimation-Argoverse) for model training results from the above created dataset.
 Below are few sample depth estimation from the Argoverse trained Resnext101 BTS model. Click to watch the video on youtube.
+
 Depth estimation on Front Center Camera
 [![Screenshot](https://github.com/TilakD/Monocular-Depth-Estimation-Argoverse/blob/master/images/vlcsnap-2020-07-20-15h53m17s829.png)](https://youtu.be/Fu7XHyHw1Gc)
 Depth estimation on Other Ring Cameras
